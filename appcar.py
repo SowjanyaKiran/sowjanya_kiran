@@ -1,6 +1,5 @@
 import streamlit as st
 import joblib
-import joblib
 import numpy as np
 
 # Load trained model and label encoders
